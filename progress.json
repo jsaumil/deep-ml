@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:19:13.891Z",
+  "generated_at": "2026-10-18T07:42:59.818Z",
   "items": {
     "problem:16": {
       "kind": "problem",
@@ -311,6 +311,17 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-17T11:19:13.159Z",
       "last_pushed_at": "2026-10-17T11:19:13.159Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-10-18T07:42:59.070Z",
+      "last_pushed_at": "2026-10-18T07:42:59.070Z"
     }
   }
 }
